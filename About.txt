@@ -1,0 +1,5 @@
+Just a weird exploration of how to analyze and compare chess games. 
+
+Very much a work in progress.
+
+URL to view what I'm doing: https://cfautt.github.io/LifeOfChess/
